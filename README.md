@@ -63,4 +63,16 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** Data Cleaning And Preparation, Advance Formulas, Data Analysis And Visualization, Data Validation And Error Checking, Power Query And Power Pivot, Charting Techniques
 
 **Technology:** Excel Workbook  
+
+
+
+### Data Professional Survey
+**Code:** [`Data Professional Survey`](https://github.com/Taiwoleegend/Power-BI-Projects/blob/main/Taiwo%20Abiola%20Main%20Power%20BI%20project.pbix)
+
+ **Description:** The dataset contains a Visualization and a list of Data Professional Survey breakdown by Country(United State, United Kingdom, Canada, India and Others). This project includes the following steps: Data Cleaning And Preparation, Simplify and Standartize Data, Creating Visualizations.
+
+
+**Skills:** Data Connection And Integration, Data Transformatiom(Power Query), Data Modelling, DAX(Data Analysis Expressions), Visualization Techniques, Data Insights
+
+**Technology:** Power BI  
     
