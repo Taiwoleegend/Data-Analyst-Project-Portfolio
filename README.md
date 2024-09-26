@@ -19,9 +19,8 @@ This is a repository to showcase skills, share projects and track my progress in
  - Excel
     - [Bike Sales Dataset](https://github.com/Taiwoleegend/ExcelProjects/blob/main/Taiwo%20Abiola%20Excel%20Dataset(Main%20Project).xlsx)
   - Power BI
-     -[Data Professional Survey](https://github.com/Taiwoleegend/Power-BI-Projects/blob/main/Taiwo%20Abiola%20Main%20Power%20BI%20project.pbix)
-    
+    - [Data Professional Survey](https://github.com/Taiwoleegend/Power-BI-Projects/blob/main/Taiwo%20Abiola%20Main%20Power%20BI%20project.pbix)
   -Tableau  
-   -[go to Tableau..](https://public.tableau.com/app/profile/taiwo.abiola)
+   - [go to Tableau..](https://public.tableau.com/app/profile/taiwo.abiola)
   
     
