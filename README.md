@@ -6,6 +6,8 @@ During my studies, I developed strong skills in handling complex data, with a sh
 
 In my spare time, I enjoy diving into new data analysis tools and techniques, constantly seeking ways to broaden my knowledge and expertise. Whether collaborating in a team or working independently, I thrive on uncovering new insights and take great satisfaction in using data to address complex challenges.
 
+My CV in [pdf](https://github.com/Taiwoleegend/Data-Analyst-Project-Portfolio/blob/main/TAIWO%20ABIOLA%20DA..pdf)
+
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
