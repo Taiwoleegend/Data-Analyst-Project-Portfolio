@@ -12,4 +12,9 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of Contents
 - [About](https://github.com/Taiwoleegend/Data-Analyst-Project-Portfolio)
-- - [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+- [Portfolio Projects](https://github.com/Taiwoleegend/Data-Analyst-Project-Portfolio#portfolio-projects)
+- - SQL
+    - [Covid 19 Data Exploration](https://github.com/Taiwoleegend/SQL-Codes/blob/main/Taiwo%20Abiola%20COVID%20Portfolio%20Project%201.sql)
+    - [Nashville Housing Data Cleaning](https://github.com/Taiwoleegend/SQL-Codes/blob/main/Taiwo%20Abiola%20Data%20Cleaning%20Portfollio%20Project(NashVilleHousing).sql)
+  
+    
