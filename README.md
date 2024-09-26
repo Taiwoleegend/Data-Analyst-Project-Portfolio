@@ -22,5 +22,10 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Data Professional Survey](https://github.com/Taiwoleegend/Power-BI-Projects/blob/main/Taiwo%20Abiola%20Main%20Power%20BI%20project.pbix)
   - Tableau  
     - [go to Tableau..](https://public.tableau.com/app/profile/taiwo.abiola)
+
+
+
+- [Education](https://github.com/Taiwoleegend/Data-Analyst-Project-Portfolio#education)
+- [Contact](https://github.com/Taiwoleegend/Data-Analyst-Project-Portfolio#contacts)
   
     
