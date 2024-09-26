@@ -27,5 +27,16 @@ This is a repository to showcase skills, share projects and track my progress in
 
 - [Education](https://github.com/Taiwoleegend/Data-Analyst-Project-Portfolio#education)
 - [Contact](https://github.com/Taiwoleegend/Data-Analyst-Project-Portfolio#contacts)
+## Portfolio Projects
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+### Covid 19 Data Exploration
+**Code:** [`COVID Portfolio Project.sql`](https://github.com/Taiwoleegend/SQL-Codes/blob/main/Taiwo%20Abiola%20COVID%20Portfolio%20Project%201.sql)
+
+**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+
+**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+**Technology:** SQL Server
   
     
