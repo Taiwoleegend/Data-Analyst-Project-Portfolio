@@ -72,7 +72,21 @@ In this section I will list data analytics projects briefly describing the techn
  **Description:** The dataset contains a Visualization and a list of Data Professional Survey breakdown by Country(United State, United Kingdom, Canada, India and Others). This project includes the following steps: Data Cleaning And Preparation, Simplify and Standartize Data, Creating Visualizations.
 
 
-**Skills:** Data Connection And Integration, Data Transformatiom(Power Query), Data Modelling, DAX(Data Analysis Expressions), Visualization Techniques, Data Insights
+**Skills:** Data Connection And Integration, Data Transformatiom(Power Query), Data Modelling, DAX(Data Analysis Expressions), Visualization Techniques, Data Insights.
 
 **Technology:** Power BI  
+
+
+
+
+
+## Education
+Crawford University, Igbesa, Ogun State:
+Bachelor's degree, Political Science And International Relations,
+2018 - 2022
+
+
+## Contacts
+- LinkedIn: [@Taiwo Abiola](https://www.linkedin.com/in/taiwo-abiola-b06b78210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- Email: abiolataiwo3690@gmail.com
     
