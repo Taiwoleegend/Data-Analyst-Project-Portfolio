@@ -57,10 +57,10 @@ In this section I will list data analytics projects briefly describing the techn
 ### Bike Sales Dataset
 **Code:** [`Bike Sales Dataset`](https://github.com/Taiwoleegend/ExcelProjects/blob/main/Taiwo%20Abiola%20Excel%20Dataset(Main%20Project).xlsx)
 
- **Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
+ **Description:** The dataset contains a list of Bikes that have been sold. This project includes the following steps: data loading, data cleaning and preprocessing, dashboard building, removing duplicates, creating pivot table and creating visualization from dataset.
 
 
-**Skills:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
+**Skills:** Data Cleaning And Preparation, Advance Formulas, Data Analysis And Visualization, Data Validation And Error Checking, Power Query And Power Pivot, Charting Techniques
 
-**Technology:** SQL Server  
+**Technology:** Excel Workbook  
     
