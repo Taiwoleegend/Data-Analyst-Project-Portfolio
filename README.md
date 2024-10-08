@@ -17,6 +17,8 @@ This is a repository to showcase skills, share projects and track my progress in
  - SQL
     - [Covid 19 Data Exploration](https://github.com/Taiwoleegend/SQL-Codes/blob/main/Taiwo%20Abiola%20COVID%20Portfolio%20Project%201.sql)
     - [Nashville Housing Data Cleaning](https://github.com/Taiwoleegend/SQL-Codes/blob/main/Taiwo%20Abiola%20Data%20Cleaning%20Portfollio%20Project(NashVilleHousing).sql)
+ - Python
+    -[Wikipedia Web Scrapping](https://github.com/Taiwoleegend/Python-Codes/blob/main/WebScraping(Wikipedia).csv)
  - Excel
     - [Bike Sales Dataset](https://github.com/Taiwoleegend/ExcelProjects/blob/main/Taiwo%20Abiola%20Excel%20Dataset(Main%20Project).xlsx)
   - Power BI
@@ -51,6 +53,15 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
 
 **Technology:** SQL Server
+
+### Wikipedia Web Scrapping
+**Code:** [`Wikipedia Web Scrapping`](https://github.com/Taiwoleegend/Python-Codes/blob/main/WebScraping(Wikipedia).csv)
+
+ **Description:** Utilized web scraping techniques to extract financial data from the Wikipedia page "List of largest companies in the United States by revenue." Using Python libraries like BeautifulSoup and Pandas, I automated the retrieval of table data, ensuring accurate parsing of HTML elements. The scraped data was then cleaned and organized into a structured format before being exported and saved as a CSV file for further analysis. This project demonstrated my ability to automate data extraction and handle large datasets efficiently.
+
+**Skills:** Python, BeautifulSoup, Pandas.
+
+**Technology:** Jupyter Notebook
 
 
 
