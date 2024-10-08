@@ -18,7 +18,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Covid 19 Data Exploration](https://github.com/Taiwoleegend/SQL-Codes/blob/main/Taiwo%20Abiola%20COVID%20Portfolio%20Project%201.sql)
     - [Nashville Housing Data Cleaning](https://github.com/Taiwoleegend/SQL-Codes/blob/main/Taiwo%20Abiola%20Data%20Cleaning%20Portfollio%20Project(NashVilleHousing).sql)
  - Python
-    -[Wikipedia Web Scrapping](https://github.com/Taiwoleegend/Python-Codes/blob/main/WebScraping(Wikipedia).csv)
+    - [Wikipedia Web Scrapping](https://github.com/Taiwoleegend/Python-Codes/blob/main/WebScraping(Wikipedia).csv)
  - Excel
     - [Bike Sales Dataset](https://github.com/Taiwoleegend/ExcelProjects/blob/main/Taiwo%20Abiola%20Excel%20Dataset(Main%20Project).xlsx)
   - Power BI
