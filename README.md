@@ -19,6 +19,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Nashville Housing Data Cleaning](https://github.com/Taiwoleegend/SQL-Codes/blob/main/Taiwo%20Abiola%20Data%20Cleaning%20Portfollio%20Project(NashVilleHousing).sql)
  - Python
     - [Wikipedia Web Scrapping](https://github.com/Taiwoleegend/Python-Codes/blob/main/WebScraping(Wikipedia).csv)
+    - [Amazon Web Scrapping](https://github.com/Taiwoleegend/Python-Codes/blob/main/Amazon%20web%20scraper%20Project.ipynb)
  - Excel
     - [Bike Sales Dataset](https://github.com/Taiwoleegend/ExcelProjects/blob/main/Taiwo%20Abiola%20Excel%20Dataset(Main%20Project).xlsx)
   - Power BI
@@ -59,6 +60,16 @@ In this section I will list data analytics projects briefly describing the techn
 
  **Description:** Utilized web scraping techniques to extract financial data from the Wikipedia page "List of largest companies in the United States by revenue." Using Python libraries like BeautifulSoup and Pandas, I automated the retrieval of table data, ensuring accurate parsing of HTML elements. The scraped data was then cleaned and organized into a structured format before being exported and saved as a CSV file for further analysis. This project demonstrated my ability to automate data extraction and handle large datasets efficiently.
 
+**Skills:** Python, BeautifulSoup, Pandas.
+
+**Technology:** Jupyter Notebook
+
+
+### Amazon Web Scrapping
+**Code:** [`Amazon Web Scrapping`](https://github.com/Taiwoleegend/Python-Codes/blob/main/WebScraping(Wikipedia).csv)
+
+ **Description:** Developed an automated web scraping tool for an Amazon website, utilizing Python to extract product details and price information. The script was designed to run every 24 hours, checking for price changes and updating the data accordingly. The extracted data was efficiently saved to a CSV file for analysis. This project showcased my skills in web scraping, data automation, and CSV file handling to track product pricing trends.
+ 
 **Skills:** Python, BeautifulSoup, Pandas.
 
 **Technology:** Jupyter Notebook
