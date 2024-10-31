@@ -17,6 +17,7 @@ This is a repository to showcase skills, share projects and track my progress in
  - SQL
     - [Covid 19 Data Exploration](https://github.com/Taiwoleegend/SQL-Codes/blob/main/Taiwo%20Abiola%20COVID%20Portfolio%20Project%201.sql)
     - [Nashville Housing Data Cleaning](https://github.com/Taiwoleegend/SQL-Codes/blob/main/Taiwo%20Abiola%20Data%20Cleaning%20Portfollio%20Project(NashVilleHousing).sql)
+    - [Data Cleaning and Analysis of Company Layoffs Trends(2022-2023)](https://github.com/Taiwoleegend/SQL-Codes/blob/main/Data%20Cleaning%20Layoffs%20Project.sql)
  - Python
     - [Wikipedia Web Scrapping](https://github.com/Taiwoleegend/Python-Codes/blob/main/WebScraping(Wikipedia).csv)
     - [Amazon Web Scrapping](https://github.com/Taiwoleegend/Python-Codes/blob/main/Amazon%20web%20scraper%20Project.ipynb)
@@ -51,6 +52,13 @@ In this section I will list data analytics projects briefly describing the techn
  **Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
 
 
+**Skills:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
+
+**Technology:** SQL Server
+
+### Data Cleaning and Analysis of Company Layoffs Trends(2022-2023)
+**Code:** [`Data Cleaning and Analysis of Company Layoffs Trends(2022-2023)`](https://github.com/Taiwoleegend/SQL-Codes/blob/main/Data%20Cleaning%20Layoffs%20Project.sql)
+ **Description:** analyzed company layoff data spanning 2020 to 2023. I began by identifying and removing duplicate entries to ensure data integrity. Next, I standardized formats across the dataset, harmonizing date formats, categorical values, and other inconsistencies. I then handled missing data by either removing rows with null values or inserting appropriate placeholders, depending on the data's context. To improve dataset focus and usability, I removed unnecessary columns that didn’t contribute to the core analysis. This process enhanced the data quality, enabling more reliable insights into layoff trends over the specified period.
 **Skills:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
 
 **Technology:** SQL Server
